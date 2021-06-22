@@ -39,6 +39,7 @@
         android:layout_marginStart="160dp"
         android:layout_marginLeft="160dp"
         android:layout_marginTop="413dp"
+        android:onClick="begin_timer"
         android:layout_marginEnd="159dp"
         android:layout_marginRight="159dp"
         android:layout_marginBottom="270dp"
